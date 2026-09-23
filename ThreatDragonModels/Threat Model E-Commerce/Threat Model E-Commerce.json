@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Threat Model E-Commerce",
+    "owner": "Surya Pradita",
+    "description": "aplikasi e commerce ini adalah aplikasi untuk UMKM berdagang tanpa perlu khawatir dengan biaya sewa toko yang mahal ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagram STRIDE baru",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data Flow Diagram untuk aplikasi pemesanan online"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "April Rustianto, M.Kom",
+    "threatTop": 0
+  }
+}
